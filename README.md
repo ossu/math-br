@@ -88,13 +88,13 @@ apenas tenha sempre em mente que você não pode comprar o sucesso!
 
 # Comunidade
 
-- Temos um servidor no Discord! [![Discord](https://img.shields.io/discord/866378348368625704.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/wymGhmf7BT) Nele pode encontrar e interagir com outros estudantes. Por que não se apresenta lá agora mesmo? [Vem para o Discord](https://discord.gg/wymGhmf7BT).
+- Temos um servidor no Discord! [![Discord](https://img.shields.io/discord/866378348368625704.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/eXUBTY6HAu) Nele pode encontrar e interagir com outros estudantes. Por que não se apresenta lá agora mesmo? [Vem para o Discord](https://discord.gg/eXUBTY6HAu).
 - Você também pode interagir sobre questões a respeito dos problemas do Curso, propor mudanças de Currículo e outras coisas relacionadas através das nossas [issues](https://github.com/Universidade-Livre/matematica/issues), sinta-se à vontade para abrir discussões lá.
 - Adicione a Universidade Brasileira Livre no seu perfil do [Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6889534067805605889)!
 
 # Antes de começar
 
-Existem tópicos que apesar de não serem essenciais na formação de Ciência da Computação podem ser muito úteis na sua jornada de aprendizado. Caso queira você pode pulá-los ou vê-los depois.
+Existem tópicos que apesar de não serem essenciais na formação de Matemática podem ser muito úteis na sua jornada de aprendizado. Caso queira você pode pulá-los ou vê-los depois.
 
 ## Técnicas de estudo, organização e aprendizagem
 
@@ -172,6 +172,8 @@ Curso | Duração | Dedicação | Conteúdos | Pré-requisitos
   - [Camilo Cunha de Azevedo](https://github.com/Camilotk): Fundador da ULivre
   - [Jefferson Quesado](https://github.com/jeffque): Responsável pelo Currículo de Matemática
   - [Emanuel Elias](https://github.com/elvcastelo): Mantenedor do Currículo de Matemática
+  - [Pedro Henrique](https://github.com/Shnrqpdr): Mantenedor do Currículo de Matemática
+  - [Marcus Rodrigues](https://github.com/mavinsi): Mantenedor do Site do Projeto
   - [Mateus Roveda](https://github.com/mateusrovedaa): Contribuidor
 
 # Contribuidores
